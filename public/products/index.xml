@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Products on TEDIMAL</title>
+    <link>https://github.io/tedcafe/tedimal/products/</link>
+    <description>Recent content in Products on TEDIMAL</description>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Feb 2026 13:28:42 +0900</lastBuildDate>
+    <atom:link href="https://github.io/tedcafe/tedimal/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ClipTodo</title>
+      <link>https://github.io/tedcafe/tedimal/products/cliptodo/</link>
+      <pubDate>Tue, 24 Feb 2026 13:28:42 +0900</pubDate>
+      <guid>https://github.io/tedcafe/tedimal/products/cliptodo/</guid>
+      <description>&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A menu bar app for Mac.&lt;/li&gt;
+&lt;li&gt;A simple Todo app.&lt;/li&gt;
+&lt;li&gt;Manage tasks and subtasks.&lt;/li&gt;
+&lt;li&gt;Drag &amp;amp; drop to reorder items.&lt;/li&gt;
+&lt;li&gt;Export to a text file.&lt;/li&gt;
+&lt;li&gt;Font customization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS 14.6 or later&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;link&#34;&gt;Link&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/kr/app/cliptodo/id6758076769?mt=12&#34;&gt;https://apps.apple.com/kr/app/cliptodo/id6758076769?mt=12&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;privacy&#34;&gt;Privacy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No personal data is collected.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>HoldItMemo</title>
+      <link>https://github.io/tedcafe/tedimal/products/holditmemo/</link>
+      <pubDate>Tue, 24 Feb 2026 13:28:22 +0900</pubDate>
+      <guid>https://github.io/tedcafe/tedimal/products/holditmemo/</guid>
+      <description>&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A menu bar app for Mac.&lt;/li&gt;
+&lt;li&gt;A simple menu app.&lt;/li&gt;
+&lt;li&gt;Automatically registers copied clipboard content as a memo.&lt;/li&gt;
+&lt;li&gt;Pin memos to the top.&lt;/li&gt;
+&lt;li&gt;Search functionality.&lt;/li&gt;
+&lt;li&gt;Font customization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS 14.6 or later&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;link&#34;&gt;Link&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/kr/app/holditmemo/id6758209889?mt=12&#34;&gt;https://apps.apple.com/kr/app/holditmemo/id6758209889?mt=12&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;privacy&#34;&gt;Privacy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;No personal data is collected.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

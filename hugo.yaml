@@ -1,0 +1,79 @@
+baseURL: https://github.io/tedcafe/tedimal/
+languageCode: en-us
+title: TEDIMAL 
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+author:
+  name: "Ted"
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author:
+    name: "Ted"
+
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  label:
+      text: "TEDIMAL"
+      icon: /apple-touch-icon.png
+      iconHeight: 35
+
+  socialIcons:
+    - name: "kofi"
+      url: "https://kofi.com"
+    - name: "x"
+      url: "https://x.com"
+
+  editPost:
+    URL: "https://github.com/tedcafe/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+
+menu:
+  main:
+    - identifier: products
+      name: products
+      url: /products/
+      weight: 10
+    - identifier: posts
+      name: posts
+      url: /post/
+      weight: 10
+
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
