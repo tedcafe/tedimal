@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on TEDIMAL</title>
-    <link>https://github.io/tedcafe/tedimal/post/</link>
+    <link>https://tedimal.com/post/</link>
     <description>Recent content in Posts on TEDIMAL</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Feb 2026 11:11:42 +0900</lastBuildDate>
-    <atom:link href="https://github.io/tedcafe/tedimal/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tedimal.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open</title>
-      <link>https://github.io/tedcafe/tedimal/post/open/</link>
+      <link>https://tedimal.com/post/open/</link>
       <pubDate>Tue, 24 Feb 2026 11:11:42 +0900</pubDate>
-      <guid>https://github.io/tedcafe/tedimal/post/open/</guid>
+      <guid>https://tedimal.com/post/open/</guid>
       <description>&lt;p&gt;홈페이지를 열었습니다.
 조금씩 채워나가겠습니다.
 감사합니다.&lt;/p&gt;</description>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Products on TEDIMAL</title>
-    <link>https://github.io/tedcafe/tedimal/products/</link>
+    <link>https://tedimal.com/products/</link>
     <description>Recent content in Products on TEDIMAL</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Feb 2026 13:28:42 +0900</lastBuildDate>
-    <atom:link href="https://github.io/tedcafe/tedimal/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tedimal.com/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ClipTodo</title>
-      <link>https://github.io/tedcafe/tedimal/products/cliptodo/</link>
+      <link>https://tedimal.com/products/cliptodo/</link>
       <pubDate>Tue, 24 Feb 2026 13:28:42 +0900</pubDate>
-      <guid>https://github.io/tedcafe/tedimal/products/cliptodo/</guid>
+      <guid>https://tedimal.com/products/cliptodo/</guid>
       <description>&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A menu bar app for Mac.&lt;/li&gt;
@@ -37,9 +37,9 @@
     </item>
     <item>
       <title>HoldItMemo</title>
-      <link>https://github.io/tedcafe/tedimal/products/holditmemo/</link>
+      <link>https://tedimal.com/products/holditmemo/</link>
       <pubDate>Tue, 24 Feb 2026 13:28:22 +0900</pubDate>
-      <guid>https://github.io/tedcafe/tedimal/products/holditmemo/</guid>
+      <guid>https://tedimal.com/products/holditmemo/</guid>
       <description>&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A menu bar app for Mac.&lt;/li&gt;
