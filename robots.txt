@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://tedimal.com/sitemap.xml
+
